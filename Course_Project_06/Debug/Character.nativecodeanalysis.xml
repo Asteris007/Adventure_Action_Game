@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Ести\Desktop\c++ pro\Course_Project_06\Course_Project_06\</FILEPATH>
+      <FILENAME>Character.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Character::m_hp' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Character::{ctor}</FUNCTION>
+    <DECORATED>??0Character@@QAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Character::m_hp</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Ести\Desktop\c++ pro\Course_Project_06\Course_Project_06\</FILEPATH>
+      <FILENAME>Character.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Character::m_strenght' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Character::{ctor}</FUNCTION>
+    <DECORATED>??0Character@@QAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Character::m_strenght</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Ести\Desktop\c++ pro\Course_Project_06\Course_Project_06\</FILEPATH>
+      <FILENAME>Character.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Character::m_intelligence' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Character::{ctor}</FUNCTION>
+    <DECORATED>??0Character@@QAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Character::m_intelligence</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Ести\Desktop\c++ pro\Course_Project_06\Course_Project_06\</FILEPATH>
+      <FILENAME>Character.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Character::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Character::{ctor}</FUNCTION>
+    <DECORATED>??0Character@@QAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Character::x</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Ести\Desktop\c++ pro\Course_Project_06\Course_Project_06\</FILEPATH>
+      <FILENAME>Character.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Character::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Character::{ctor}</FUNCTION>
+    <DECORATED>??0Character@@QAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Character::y</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

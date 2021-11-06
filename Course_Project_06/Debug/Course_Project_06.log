@@ -1,0 +1,14 @@
+﻿  Character.cpp
+  Course_Project_06.cpp
+  Enemy.cpp
+  Heretic.cpp
+  HeroType.cpp
+  Necromancer.cpp
+  Skeleton.cpp
+  theMap.cpp
+D:\НОВО ССД\Карантинен семестър\c++ pro\Course_Project_06\Course_Project_06\theMap.cpp(116,28): warning C4553: '==': result of expression not used; did you intend '='?
+D:\НОВО ССД\Карантинен семестър\c++ pro\Course_Project_06\Course_Project_06\theMap.cpp(125,28): warning C4553: '==': result of expression not used; did you intend '='?
+D:\НОВО ССД\Карантинен семестър\c++ pro\Course_Project_06\Course_Project_06\theMap.cpp(133,28): warning C4553: '==': result of expression not used; did you intend '='?
+D:\НОВО ССД\Карантинен семестър\c++ pro\Course_Project_06\Course_Project_06\theMap.cpp(142,28): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  Course_Project_06.vcxproj -> D:\НОВО ССД\Карантинен семестър\c++ pro\Course_Project_06\Debug\Course_Project_06.exe
